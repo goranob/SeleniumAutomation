@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="19353" started-at="2016-09-29T23:13:54Z" finished-at="2016-09-29T23:14:13Z">
+  <suite name="Default suite" duration-ms="21312" started-at="2016-09-30T09:12:27Z" finished-at="2016-09-30T09:12:48Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="19353" started-at="2016-09-29T23:13:54Z" finished-at="2016-09-29T23:14:13Z">
+    <test name="Default test" duration-ms="21312" started-at="2016-09-30T09:12:27Z" finished-at="2016-09-30T09:12:48Z">
       <class name="SeleniumTestJava.QuandooTest">
-        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:SeleniumTestJava.QuandooTest@6bdf28bb]" name="setUpDriver" is-config="true" duration-ms="6955" started-at="2016-09-30T01:13:54Z" finished-at="2016-09-30T01:14:01Z">
+        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:SeleniumTestJava.QuandooTest@6bdf28bb]" name="setUpDriver" is-config="true" duration-ms="6684" started-at="2016-09-30T11:12:27Z" finished-at="2016-09-30T11:12:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpDriver -->
-        <test-method status="PASS" signature="correctLogIn()[pri:0, instance:SeleniumTestJava.QuandooTest@6bdf28bb]" name="correctLogIn" duration-ms="5213" started-at="2016-09-30T01:14:01Z" finished-at="2016-09-30T01:14:06Z">
+        <test-method status="PASS" signature="correctLogIn()[pri:0, instance:SeleniumTestJava.QuandooTest@6bdf28bb]" name="correctLogIn" duration-ms="8072" started-at="2016-09-30T11:12:33Z" finished-at="2016-09-30T11:12:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- correctLogIn -->
-        <test-method status="PASS" signature="wrongUser()[pri:1, instance:SeleniumTestJava.QuandooTest@6bdf28bb]" name="wrongUser" duration-ms="3033" started-at="2016-09-30T01:14:06Z" finished-at="2016-09-30T01:14:09Z">
+        <test-method status="PASS" signature="wrongUser()[pri:1, instance:SeleniumTestJava.QuandooTest@6bdf28bb]" name="wrongUser" duration-ms="2345" started-at="2016-09-30T11:12:41Z" finished-at="2016-09-30T11:12:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- wrongUser -->
-        <test-method status="PASS" signature="wrongPassword()[pri:2, instance:SeleniumTestJava.QuandooTest@6bdf28bb]" name="wrongPassword" duration-ms="2219" started-at="2016-09-30T01:14:09Z" finished-at="2016-09-30T01:14:11Z">
+        <test-method status="PASS" signature="wrongPassword()[pri:2, instance:SeleniumTestJava.QuandooTest@6bdf28bb]" name="wrongPassword" duration-ms="2268" started-at="2016-09-30T11:12:44Z" finished-at="2016-09-30T11:12:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- wrongPassword -->
-        <test-method status="PASS" signature="checkHovers()[pri:3, instance:SeleniumTestJava.QuandooTest@6bdf28bb]" name="checkHovers" duration-ms="1220" started-at="2016-09-30T01:14:11Z" finished-at="2016-09-30T01:14:13Z">
+        <test-method status="PASS" signature="checkHovers()[pri:3, instance:SeleniumTestJava.QuandooTest@6bdf28bb]" name="checkHovers" duration-ms="1233" started-at="2016-09-30T11:12:46Z" finished-at="2016-09-30T11:12:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkHovers -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:SeleniumTestJava.QuandooTest@6bdf28bb]" name="tearDown" is-config="true" duration-ms="634" started-at="2016-09-30T01:14:13Z" finished-at="2016-09-30T01:14:13Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SeleniumTestJava.QuandooTest@6bdf28bb]" name="tearDown" is-config="true" duration-ms="678" started-at="2016-09-30T11:12:47Z" finished-at="2016-09-30T11:12:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
