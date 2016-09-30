@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19353" started-at="2016-09-29T23:13:54Z" finished-at="2016-09-29T23:14:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19353" started-at="2016-09-29T23:13:54Z" finished-at="2016-09-29T23:14:13Z">
+      <class name="SeleniumTestJava.QuandooTest">
+        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:SeleniumTestJava.QuandooTest@6bdf28bb]" name="setUpDriver" is-config="true" duration-ms="6955" started-at="2016-09-30T01:13:54Z" finished-at="2016-09-30T01:14:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method status="PASS" signature="correctLogIn()[pri:0, instance:SeleniumTestJava.QuandooTest@6bdf28bb]" name="correctLogIn" duration-ms="5213" started-at="2016-09-30T01:14:01Z" finished-at="2016-09-30T01:14:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctLogIn -->
+        <test-method status="PASS" signature="wrongUser()[pri:1, instance:SeleniumTestJava.QuandooTest@6bdf28bb]" name="wrongUser" duration-ms="3033" started-at="2016-09-30T01:14:06Z" finished-at="2016-09-30T01:14:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrongUser -->
+        <test-method status="PASS" signature="wrongPassword()[pri:2, instance:SeleniumTestJava.QuandooTest@6bdf28bb]" name="wrongPassword" duration-ms="2219" started-at="2016-09-30T01:14:09Z" finished-at="2016-09-30T01:14:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrongPassword -->
+        <test-method status="PASS" signature="checkHovers()[pri:3, instance:SeleniumTestJava.QuandooTest@6bdf28bb]" name="checkHovers" duration-ms="1220" started-at="2016-09-30T01:14:11Z" finished-at="2016-09-30T01:14:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHovers -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SeleniumTestJava.QuandooTest@6bdf28bb]" name="tearDown" is-config="true" duration-ms="634" started-at="2016-09-30T01:14:13Z" finished-at="2016-09-30T01:14:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumTestJava.QuandooTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
